@@ -23,7 +23,7 @@ Eu sou Gustavo Adoryan, um entusiasta da programação apaixonado por construir 
 
 ## Contato
 
-- [Linkedin](https://www.linkedin.com/in/gustavoadoryan/)
+- [![Linkedin](https://www.linkedin.com/in/gustavoadoryan/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Estatísticas do GitHub
 
