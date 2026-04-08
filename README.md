@@ -1,40 +1,91 @@
-# Gustavo Adoryan
+# Gustavo Adoryan 👨‍💻
 
-Bem-vindo ao meu perfil do GitHub! 👋
+Software Engineer | Data Engineering | Data Pipelines & Web Scraping
 
-## Sobre mim
+---
 
-Eu sou Gustavo Adoryan, um entusiasta da programação apaixonado por construir soluções inovadoras. Atualmente, estou cursando o bacharelado em Engenharia de Software, além de ter conhecimentos sólidos em Java, JavaScript, HTML5, CSS3, Quarkus, Spring Boot e lógica de programação.
+## 🚀 Sobre mim
 
-## Habilidades
+Sou Engenheiro de Software com foco em Engenharia de Dados, com mais de 2 anos de experiência trabalhando na construção de pipelines de dados, sistemas de processamento e soluções de coleta de dados em ambientes reais.
 
-- Java
+Atuo com ingestão, transformação e organização de dados estruturados e não estruturados, sempre com foco em qualidade, performance e escalabilidade.
+
+Tenho experiência prática no desenvolvimento de sistemas de web scraping em larga escala, integração de múltiplas fontes de dados e construção de pipelines robustos para consumo analítico.
+
+---
+
+## 🧠 Especialidades
+
+- Engenharia de Dados (ETL / ELT)
+- Pipelines de Dados
+- Web Scraping em escala
+- Processamento de Dados
+- Integração de APIs
+- Qualidade e Validação de Dados
+- Automação de Processos
+
+---
+
+## 🛠️ Stack Tecnológica
+
+**Linguagens**
+- Python
+- SQL
 - JavaScript
-- HTML5
-- CSS3
-- Quarkus
-- Spring Boot
-- Lógica de Programação
-- Arquitetura Limpa
-- Padrão MVC
-- Scrum
 
-## Projetos em Destaque
+**Data & Scraping**
+- Scrapy
+- Playwright
+- Selenium
+- Pandas
 
-- Spring-Boot (https://github.com/GustavoAdoryan/Spring-Boot): Este é um projeto CRUD (Create, Read, Update, Delete) full stack em Java que demonstra operações básicas de manipulação de dados.
+**Banco de Dados**
+- MongoDB
+- PostgreSQL
+- MySQL
 
-## Estudos Acadêmicos
+**Cloud & DevOps**
+- AWS (S3, EC2)
+- Docker
+- Git
+- Linux
 
-- Bacharelado em Engenharia de Software (em andamento)
+---
 
-## Contato
+## 📊 Projetos em Destaque
 
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoadoryan/)
+### 🔹 Data Pipeline & Web Scraping
+- Desenvolvimento de pipelines de coleta de dados utilizando Python
+- Extração de dados de APIs, páginas web e documentos PDF
+- Processamento e armazenamento de dados em MongoDB
+- Foco em performance, automação e escalabilidade
 
-## Estatísticas do GitHub
+👉 Em breve mais projetos focados em Engenharia de Dados
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoAdoryan&show_icons=true&hide=stars&count_private=true&theme=dracula)
+---
 
-## Agradecimentos
+## 🎓 Formação
 
-Agradeço por visitar meu perfil! Se você tiver interesse em Engenharia de Software, Java, JavaScript, Quarkus, Spring Boot ou qualquer outra tecnologia, vamos conectar e colaborar! 🚀
+🎓 Engenharia de Software — Centro Universitário FAG
+
+---
+
+## 🌎 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavoadoryan/
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoAdoryan&show_icons=true&hide=stars&count_private=true&theme=dracula)
+
+---
+
+## 🚀 Objetivo
+
+Evoluir continuamente na área de Engenharia de Dados, construindo soluções escaláveis e eficientes que gerem valor através dos dados.
+
+---
+
+⭐ Se curtir meu trabalho, fique à vontade para explorar os repositórios!
