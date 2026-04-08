@@ -76,12 +76,6 @@ Tenho experiência prática no desenvolvimento de sistemas de web scraping em la
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoAdoryan&show_icons=true&hide=stars&count_private=true&theme=dracula)
-
----
-
 ## 🚀 Objetivo
 
 Evoluir continuamente na área de Engenharia de Dados, construindo soluções escaláveis e eficientes que gerem valor através dos dados.
