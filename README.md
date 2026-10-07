@@ -1,6 +1,6 @@
 # Gustavo Adoryan 👨‍💻
 
-Software Engineer | Data Engineering | Data Pipelines & Web Scraping
+Software Engineer | Data Engineerin
 
 ---
 
