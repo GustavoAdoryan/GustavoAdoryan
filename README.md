@@ -1,6 +1,6 @@
 # Gustavo Adoryan 👨‍💻
 
-Software Engineer | Data Engineerin
+Software Engineer | Data Engineer
 
 ---
 
